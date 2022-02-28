@@ -1,4 +1,4 @@
-# 🍊Mandarin-Algorithm-Study🍊
+# 🍊Mandarin-Web-Study🍊
 
 - 웹 스터디 모임
 - 2022.02.28 ~
