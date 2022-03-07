@@ -12,3 +12,7 @@
 ### 2cleanwater
 - 개발을 시작하기 전에
   - https://2cleanwater.tistory.com/11
+
+### seonhwa
+- http 공부
+  - https://www.notion.so/http-3055fd55e7654c65877cb1f0f337eb46
