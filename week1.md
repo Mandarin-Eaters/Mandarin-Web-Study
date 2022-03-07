@@ -16,3 +16,11 @@
 ### seonhwa
 - http 공부
   - https://www.notion.so/http-3055fd55e7654c65877cb1f0f337eb46
+
+### seoltaehyeok
+- http
+  - https://sthyeok.tistory.com/82
+- json
+  - https://sthyeok.tistory.com/83
+- server / servlet
+  - https://sthyeok.tistory.com/84
