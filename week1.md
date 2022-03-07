@@ -8,3 +8,9 @@
   - https://siaayeon.tistory.com/14
 - server 
   - https://siaayeon.tistory.com/15
+
+### 2cleanwater
+- 개발을 시작하기 전에
+  - ### seungyeonpark
+- http
+  - https://2cleanwater.tistory.com/11
